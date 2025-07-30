@@ -55,7 +55,7 @@ Ensure the following dependencies are installed:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/thirusudar03092003/Xconvert-file_converter.git
+   git clone https://github.com/mohanarajanreddy/DataFormat_Converter_With_Hadoop.git
    cd xconvert
    ```
 
@@ -174,7 +174,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 ## Author
 
-Developed by **Thiru Sudar S L** as part of the **B.Tech AI & DS program** at **Velammal Engineering College, Ambattur**.
+Developed by **Mohanarajan Reddy** as part of the **B.Tech AI & DS program** at **Velammal Engineering College, Ambattur, Chennai**.
 
 ## Acknowledgments
 
